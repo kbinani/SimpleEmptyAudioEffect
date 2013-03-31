@@ -218,8 +218,8 @@
 				B6D29D28147DEA5E00D1E23C /* ComponentBase.h */,
 			);
 			name = AUBase;
-			path = Extras/CoreAudio/AudioUnits/AUPublic/AUBase;
-			sourceTree = DEVELOPER_DIR;
+			path = /Developer/Extras/CoreAudio/AudioUnits/AUPublic/AUBase;
+			sourceTree = "<absolute>";
 		};
 		B6D29D3C147DEAEF00D1E23C /* OtherBases */ = {
 			isa = PBXGroup;
@@ -228,8 +228,8 @@
 				B6D29D3E147DEAEF00D1E23C /* AUEffectBase.h */,
 			);
 			name = OtherBases;
-			path = Extras/CoreAudio/AudioUnits/AUPublic/OtherBases;
-			sourceTree = DEVELOPER_DIR;
+			path = /Developer/Extras/CoreAudio/AudioUnits/AUPublic/OtherBases;
+			sourceTree = "<absolute>";
 		};
 		B6D29D55147DEB2900D1E23C /* Utility */ = {
 			isa = PBXGroup;
@@ -245,8 +245,8 @@
 				B6D29D5E147DEB2900D1E23C /* AUTimestampGenerator.h */,
 			);
 			name = Utility;
-			path = Extras/CoreAudio/AudioUnits/AUPublic/Utility;
-			sourceTree = DEVELOPER_DIR;
+			path = /Developer/Extras/CoreAudio/AudioUnits/AUPublic/Utility;
+			sourceTree = "<absolute>";
 		};
 		B6D29D68147DEB5A00D1E23C /* PublicUtility */ = {
 			isa = PBXGroup;
@@ -269,8 +269,8 @@
 				B6D29DA7147DEB5A00D1E23C /* CADebugMacros.h */,
 			);
 			name = PublicUtility;
-			path = Extras/CoreAudio/PublicUtility;
-			sourceTree = DEVELOPER_DIR;
+			path = /Developer/Extras/CoreAudio/PublicUtility;
+			sourceTree = "<absolute>";
 		};
 /* End PBXGroup section */
 
